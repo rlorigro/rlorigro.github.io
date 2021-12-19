@@ -1,25 +1,34 @@
 {
   "files": {
     "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.a3a87eb5.chunk.js",
-    "main.js.map": "/static/js/main.a3a87eb5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.83a5d012.js",
-    "runtime-main.js.map": "/static/js/runtime-main.83a5d012.js.map",
-    "static/css/2.beb3ea16.chunk.css": "/static/css/2.beb3ea16.chunk.css",
-    "static/js/2.792d90b3.chunk.js": "/static/js/2.792d90b3.chunk.js",
-    "static/js/2.792d90b3.chunk.js.map": "/static/js/2.792d90b3.chunk.js.map",
-    "static/js/3.00b7325f.chunk.js": "/static/js/3.00b7325f.chunk.js",
-    "static/js/3.00b7325f.chunk.js.map": "/static/js/3.00b7325f.chunk.js.map",
+    "main.js": "/static/js/main.6345ae36.chunk.js",
+    "main.js.map": "/static/js/main.6345ae36.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0ffc508e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0ffc508e.js.map",
+    "static/css/2.0cc87343.chunk.css": "/static/css/2.0cc87343.chunk.css",
+    "static/js/2.a071fdac.chunk.js": "/static/js/2.a071fdac.chunk.js",
+    "static/js/2.a071fdac.chunk.js.map": "/static/js/2.a071fdac.chunk.js.map",
+    "static/js/3.0e19e105.chunk.js": "/static/js/3.0e19e105.chunk.js",
+    "static/js/3.0e19e105.chunk.js.map": "/static/js/3.0e19e105.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.beb3ea16.chunk.css.map": "/static/css/2.beb3ea16.chunk.css.map",
+    "static/css/2.0cc87343.chunk.css.map": "/static/css/2.0cc87343.chunk.css.map",
     "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.792d90b3.chunk.js.LICENSE.txt": "/static/js/2.792d90b3.chunk.js.LICENSE.txt"
+    "static/js/2.a071fdac.chunk.js.LICENSE.txt": "/static/js/2.a071fdac.chunk.js.LICENSE.txt",
+    "static/media/default-skin.css": "/static/media/default-skin.f64c3af3.svg",
+    "static/media/oxidation_resistance_poster.4fc54cc9.png": "/static/media/oxidation_resistance_poster.4fc54cc9.png",
+    "static/media/oxidation_resistance_poster_thumbnail_uniform.6c17893b.png": "/static/media/oxidation_resistance_poster_thumbnail_uniform.6c17893b.png",
+    "static/media/protocell_self_assembly_poster.57fff76a.png": "/static/media/protocell_self_assembly_poster.57fff76a.png",
+    "static/media/protocell_self_assembly_poster_thumbnail_uniform.053da4be.png": "/static/media/protocell_self_assembly_poster_thumbnail_uniform.053da4be.png",
+    "static/media/rgc_neuro_poster.10a51822.png": "/static/media/rgc_neuro_poster.10a51822.png",
+    "static/media/rgc_neuro_poster_thumbnail_uniform.c2ecf7ca.png": "/static/media/rgc_neuro_poster_thumbnail_uniform.c2ecf7ca.png",
+    "static/media/variant_caller_poster.d0ea1cb2.png": "/static/media/variant_caller_poster.d0ea1cb2.png",
+    "static/media/variant_caller_poster_thumbnail_uniform.ad4d987c.png": "/static/media/variant_caller_poster_thumbnail_uniform.ad4d987c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.83a5d012.js",
-    "static/css/2.beb3ea16.chunk.css",
-    "static/js/2.792d90b3.chunk.js",
+    "static/js/runtime-main.0ffc508e.js",
+    "static/css/2.0cc87343.chunk.css",
+    "static/js/2.a071fdac.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.a3a87eb5.chunk.js"
+    "static/js/main.6345ae36.chunk.js"
   ]
 }
