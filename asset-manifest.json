@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.145bbd51.chunk.js",
-    "main.js.map": "/static/js/main.145bbd51.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0ffc508e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0ffc508e.js.map",
-    "static/css/2.0cc87343.chunk.css": "/static/css/2.0cc87343.chunk.css",
-    "static/js/2.4a1f17ac.chunk.js": "/static/js/2.4a1f17ac.chunk.js",
-    "static/js/2.4a1f17ac.chunk.js.map": "/static/js/2.4a1f17ac.chunk.js.map",
-    "static/js/3.0e19e105.chunk.js": "/static/js/3.0e19e105.chunk.js",
-    "static/js/3.0e19e105.chunk.js.map": "/static/js/3.0e19e105.chunk.js.map",
+    "main.js": "/static/js/main.f1c17332.chunk.js",
+    "main.js.map": "/static/js/main.f1c17332.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.39a46717.js",
+    "runtime-main.js.map": "/static/js/runtime-main.39a46717.js.map",
+    "static/css/2.309600bd.chunk.css": "/static/css/2.309600bd.chunk.css",
+    "static/js/2.bad83865.chunk.js": "/static/js/2.bad83865.chunk.js",
+    "static/js/2.bad83865.chunk.js.map": "/static/js/2.bad83865.chunk.js.map",
+    "static/js/3.1711b3c8.chunk.js": "/static/js/3.1711b3c8.chunk.js",
+    "static/js/3.1711b3c8.chunk.js.map": "/static/js/3.1711b3c8.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.0cc87343.chunk.css.map": "/static/css/2.0cc87343.chunk.css.map",
+    "static/css/2.309600bd.chunk.css.map": "/static/css/2.309600bd.chunk.css.map",
     "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.4a1f17ac.chunk.js.LICENSE.txt": "/static/js/2.4a1f17ac.chunk.js.LICENSE.txt",
+    "static/js/2.bad83865.chunk.js.LICENSE.txt": "/static/js/2.bad83865.chunk.js.LICENSE.txt",
     "static/media/default-skin.css": "/static/media/default-skin.f64c3af3.svg",
+    "static/media/font-awesome.css.map": "/static/media/font-awesome.css.cc59a9e6.map",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/oxidation_resistance_poster.4fc54cc9.png": "/static/media/oxidation_resistance_poster.4fc54cc9.png",
     "static/media/oxidation_resistance_poster_thumbnail_uniform.6c17893b.png": "/static/media/oxidation_resistance_poster_thumbnail_uniform.6c17893b.png",
     "static/media/protocell_self_assembly_poster.57fff76a.png": "/static/media/protocell_self_assembly_poster.57fff76a.png",
@@ -25,10 +27,10 @@
     "static/media/variant_caller_poster_thumbnail_uniform.ad4d987c.png": "/static/media/variant_caller_poster_thumbnail_uniform.ad4d987c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ffc508e.js",
-    "static/css/2.0cc87343.chunk.css",
-    "static/js/2.4a1f17ac.chunk.js",
+    "static/js/runtime-main.39a46717.js",
+    "static/css/2.309600bd.chunk.css",
+    "static/js/2.bad83865.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.145bbd51.chunk.js"
+    "static/js/main.f1c17332.chunk.js"
   ]
 }
